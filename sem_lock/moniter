@@ -1,0 +1,2 @@
+count=0;while :; do echo"##########${count}############"; ipcs -s;sleep 1;((count++));done
+
